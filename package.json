@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "belajartea": "^1.1.5",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "tommyvercelweb": "^1.1.2"
+  },
+  "name": "ceklogintommy",
+  "version": "1.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamabii/ceklogin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tamabii/ceklogin/issues"
+  },
+  "homepage": "https://github.com/tamabii/ceklogin#readme",
+  "description": ""
+}
